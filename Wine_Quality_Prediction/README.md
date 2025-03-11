@@ -2,8 +2,8 @@
 A Machine Learning project to predict wine quality using classification algorithms.
 
 📂 **Folder:** [`Wine_Quality_Prediction`](Wine_Quality_Prediction/)  
-📄 **Notebook:** [`wine_quality_prediction.ipynb`](Wine_Quality_Prediction/wine_quality_prediction.ipynb)  
-📊 **Dataset:** [`dataset.csv`](Wine_Quality_Prediction/dataset.csv)  
+📄 **Notebook:** [`wine_quality_prediction.ipynb`](Wine_Quality_Prediction/Wine_Prediction.ipynb)  
+📊 **Dataset:** [`dataset.csv`](Wine_Quality_Prediction/winequality-red.csv)  
 
 ### 🔹 Methods Used:
 - Data Cleaning & Preprocessing
